@@ -24,6 +24,7 @@ footer{
     border: 0px;
     background-color: #FF7D29;
     text-align: center;
+    background-color: #1d1d1d;
 }
 
 header{
@@ -31,6 +32,7 @@ header{
     margin: 0px;
     border: 0px;
     background-color: #FFBF78;
+    background-color: #0c0c0c;
 }
 
 main{
@@ -39,15 +41,25 @@ main{
     border: 0px;
     background-color: #FFEEA9;
     margin: 50px;
-    text-align: center; 
+    text-align: center;
+    background-color: #1d1d1d;
 
 }
 
 body{
     background-color: #FFBF78;
+    background-color: #0c0c0c;
 }
 
 img{
     padding: 50px 50px 50px 50px;
     width: 500px;
+}
+
+p, h1, h2, h3, h4{
+    color: white;
+}
+
+b{
+    color: red;
 }
